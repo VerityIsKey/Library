@@ -1,0 +1,21 @@
+
+
+.title {
+    color: #131313;
+    background: rgb(55, 111, 200);
+    font-size: calc(16px + 2vw);
+    font-weight: bold;
+    }
+
+.title-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(55, 111, 200);
+    height: calc(20px + 15vh);
+}
+
+.library-container{
+    display: flex;
+}
+
